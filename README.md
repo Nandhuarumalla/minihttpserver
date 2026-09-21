@@ -41,13 +41,13 @@ It demonstrates how web servers work internally using socket programming:
 
 ## 📁 Project Structure
 ---
-'''
+```
 MiniHttpServer/
 │
 ├── server.c
 ├── index.html
 ├── README.md
-'''
+```
 
 ## ⚙️ How It Works
 1. Initialize Winsock  
